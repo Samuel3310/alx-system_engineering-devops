@@ -1,1 +1,1 @@
-this is the new project
+This is the new shell project
